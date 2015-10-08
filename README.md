@@ -1,4 +1,5 @@
-# testvar month = prompt("Enter a month");
+# test
+var month = prompt("Enter a month");
 var cat = month.toLowerCase();
 var test = cat.slice(0,3);
 
